@@ -1,1 +1,2 @@
 # NETFLIX-CLONE-APP
+A Netflix Clone App built using HTML, CSS, and JavaScript, replicating key features of the popular streaming platform. This project includes a dynamic interface for browsing movies and TV shows, video previews, and user interaction for selecting and playing content. It emphasizes responsive design, media handling, and API integration for dynamic content loading. A great way to learn about building modern web applications, working with video elements, and creating immersive user experiences.
